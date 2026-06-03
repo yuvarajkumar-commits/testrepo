@@ -1,0 +1,12 @@
+workspace:
+  id: 0932c89a-2d05-43b7-b461-55949b6dceb5
+localResources:
+  specs:
+    - ..\api-docs\postair-openapi-3_1.json
+    - ..\api-docs\postair-openapi-3_1.yaml
+    - ../api-docs/postair-openapi-3_1.json
+    - ../api-docs/postair-openapi-3_1.yaml
+cloudResources:
+  specs:
+    ../api-docs/postair-openapi-3_1.json: 2dc33e92-433a-4304-8c16-038357f2f5cc
+    ../api-docs/postair-openapi-3_1.yaml: c333b0c8-2569-49f9-a24d-3c11f8f17948
